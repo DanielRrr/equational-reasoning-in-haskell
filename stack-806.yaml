@@ -1,7 +1,7 @@
-resolver: lts-13.1
+resolver: lts-14.7
 
 flags: {}
 packages:
 - '.'
 
-extra-deps: []
+allow-newer: true
